@@ -53,7 +53,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/dandelion/proprietary/lib/vendor.mediatek.hardware.videotelephony@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.mediatek.hardware.videotelephony@1.0.so
 
 PRODUCT_PACKAGES += \
-    EngineerMode
+    EngineerMode \
     ImsService \
     mediatek-common \
     mediatek-framework \
